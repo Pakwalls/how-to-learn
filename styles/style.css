@@ -33,11 +33,12 @@
 }
 
 .header__link {
-  color: #2f80ed;   /* проверить что такое */
+  color: #2f80ed;
 }
 
 .link_decoration {
   text-decoration: none;
+  z-index: 2;
 }
 
 .header__subtitle {
