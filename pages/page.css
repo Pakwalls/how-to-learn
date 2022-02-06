@@ -70,6 +70,12 @@
 @import url(../blocks/content/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/content/resources/resources.css);
+@import url(../blocks/content/resources/__logo_zone/resources__logo-zone.css);
+@import url(../blocks/content/resources/__logo/resources__logo.css);
+@import url(../blocks/content/resources/__logo/_name/resources__logo_name_arzamas.css);
+@import url(../blocks/content/resources/__logo/_name/resources__logo_name_n1.css);
+@import url(../blocks/content/resources/__logo/_name/resources__logo_name_polka.css);
+@import url(../blocks/content/resources/__logo/_name/resources__logo_name_strelka.css);
 
 @import url(../blocks/content/cards/cards.css);
 @import url(../blocks/content/cards/__item/cards__item.css);
