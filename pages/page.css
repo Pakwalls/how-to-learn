@@ -1,6 +1,6 @@
 /*------------------Главный Импорт------------------*/
 @import url(../vendors/normalize.css);
-@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
 
 /*------------------Импорт блока Header, его элементов и модификаторов------------------*/
 @import url(../blocks/header/header.css);
@@ -42,6 +42,8 @@
 @import url(../blocks/content/techniques/techniques.css);
 
 @import url(../blocks/content/video/video.css);
+@import url(../blocks/content/video/__iframes/video__iframes.css);
+@import url(../blocks/content/video/__iframe/video__iframe.css);
 
 @import url(../blocks/content/oakley/oakley.css);
 
