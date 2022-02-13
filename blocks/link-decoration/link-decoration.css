@@ -1,0 +1,9 @@
+.link-decoration {
+  text-decoration: none;
+  transition: transform .7s ease-in-out;
+}
+
+.link-decoration:hover {
+  transform: scale(1.1);
+  opacity: .5;
+}

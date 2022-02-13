@@ -2,16 +2,4 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0;
-  padding: 0;
-}
-
-.link-decoration { /*-------------------------подумОть потом правильно ли тут его место-----------------------*/
-  text-decoration: none;
-  transition: transform .7s ease-in-out;
-}
-
-.link-decoration:hover {
-  transform: scale(1.1);
-  opacity: .5;
 }
